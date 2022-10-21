@@ -4,7 +4,7 @@
 
            
                          10/20/2022 
- Guess a number 1 - 10, 1 - 50, 1 - 100.
+ In this program the user will Guess a number 1 - 10, 1 - 50, 1 - 100.
 */
 
 
@@ -124,9 +124,6 @@ while (validNum == false)
         Console.WriteLine("Not the Number. Your guess is to low..  The number was " + winningNumb);
     }
  
- 
-
-    //Console.WriteLine("it took you this many ")
 }
 
 Console.WriteLine("Would you like to play again? type no to quit or any key to play again.");
@@ -139,12 +136,4 @@ Console.WriteLine("Would you like to play again? type no to quit or any key to p
     }
 validNum = false;
  option = "Rafa";
-// Console.WriteLine("Would you like to play again? type no to quit or any key to play again.");
-//     string answer01 = Console.ReadLine();
-//     int x;
-//     bool n = int.TryParse(answer01, out x);
-//     if (answer01 == "no")
-//     {
-//         playover = false;
-//     }
 }
