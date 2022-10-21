@@ -1,1 +1,2 @@
 # ManzoRminiChallenge_8
+// peer review - andrea burr - this was super cool! i loved that it feels like a conversation, it tells you what the intended number was it calls you dude and its really cool! if you add letters (i only did it see what it woudl say) it will say your entry couldnt be read and then say your number was too high and give you the number it was suppoed to be. i think thats really intersting it didnt break i love it!
