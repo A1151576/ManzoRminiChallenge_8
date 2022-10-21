@@ -1,4 +1,14 @@
-﻿// we have our variables
+﻿
+/*                  Rafael Manzo Mini 8 Ocho.. 
+                    Guess it game!
+
+           
+                         10/20/2022 
+ Guess a number 1 - 10, 1 - 50, 1 - 100.
+*/
+
+
+// we have our variables
 Console.Clear();
 int easyLvl = 10;
 int mediumLvl = 50;
